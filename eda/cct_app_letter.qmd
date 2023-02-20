@@ -1,0 +1,27 @@
+---
+title: "Letter of Application: Ph.D. Computational Fellowship"
+subtitle: "Duke Center for Computational Thinking"
+author: "Osanna Drake"
+date: today
+format: html
+theme: simplex
+editor: visual
+---
+
+Dear reviewer,
+
+I am writing to express my strong interest in the Ph.D. Computational Fellowship offered by the Duke Center for Computational Thinking. As a first-year Ph.D. student in Marine Science and Conservation, I am eager to develop my technical skills while applying them to my research. Furthermore, the fellowship's focus on data science and project-based, team-based learning is an ideal fit for my personal interests and career goals.
+
+Through most of my academic journey, I actively avoided computational subjects due to the hyper-masculine 'tech culture' and perception that I (a neurodivergent queer woman from a low-income family) would not excel at programming. However, the COVID-19 pandemic put an end to my fieldwork-based job it highlighted the importance of having skills that can be used remotely, leading me to take some introductory courses in data science and computer programming, despite my hesitation. While the courses were not geared towards environmental science, or even research at all, I discovered a passion for coding and found I have a natural aptitude for computational problem-solving.
+
+Shortly thereafter I graduated and managed to obtain a fellowship at Oceana analyzing big data from Global Fishing Watch to monitor illegal fishing and develop visualizations to promote policy change. I was mostly self-directed, and although I gained valuable knowledge and experience, I lacked feedback on my technical creations. Now, as I begin my Ph.D. program and work with new data forms and structures, I would benefit tremendously from the opportunity to solidify my formal foundation and grow as a researcher through the Computational Fellowship.
+
+I am particularly excited to elevate my knowledge of data analysis and visualization while harnessing version control for rigorous workflows (I've been dying to learn Git). Since the methods and tools are applicable across domains, I look forward to learning new ways to analyze my interdisciplinary social-science data and generate reproducible results. Lastly, the fellowship's final project, which involves an oral presentation and shareable visualizations, will be a fabulous opportunity for me to not only interpret my data, but also to communicate it effectively. This crucial communication is often missing from technical curricula, yet essential for driving positive change. By participating in this fellowship, I will be better equipped to share my research with a broad audience and translate my findings into actionable solutions for the ocean and the people who need it most.
+
+Our world is undergoing a technological revolution, and it is critical that aspiring environmental scholars and practitioners can leverage the computational tools necessary for solving the problems of tomorrow. The Computational Fellowship provides a gateway to making meaningful contributions in marine science and conservation, and I am ready to take advantage of this opportunity.
+
+Thank you for considering my application. I believe the Computational Fellowship through Duke's Center for Computational Thinking is the perfect chance to enrich my education and turn my passion, curiosity, and joy into the makings of a future leader.
+
+Sincerely,
+
+Osanna
